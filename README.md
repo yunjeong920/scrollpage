@@ -10,4 +10,4 @@ build :  html, css, sass, javascript
 
 vue.js + webpack
 
-main
+subpage
