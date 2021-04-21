@@ -6,4 +6,4 @@ scrollpage
 찾아오시는길
 total : 3 page
 
-build :  html, css, sass, javascript
+build :  html, css, sass
